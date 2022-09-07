@@ -3,4 +3,4 @@ ETS2Autonomy
 
 
 
-![This is an image](https://github.com/Lazmann/ETS2Autonomy/blob/main/video1.gif)
+<img src="https://github.com/Lazmann/ETS2Autonomy/blob/main/video1.gif" width="800" height="500">
